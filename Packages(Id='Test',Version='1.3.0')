@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<entry xml:base="http://nugetrepo/nuget/" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns="http://www.w3.org/2005/Atom">
+  <id>http://nugetrepo/nuget/Packages(Id='Test',Version='1.3.0')</id>
+  <title type="text">Test</title>
+  <summary type="text"></summary>
+  <updated>2016-04-19T09:11:41Z</updated>
+  <author>
+    <name>marek.fisera</name>
+  </author>
+  <link rel="edit-media" title="Package" href="Packages(Id='Test',Version='1.3.0')/$value" />
+  <link rel="edit" title="Package" href="Packages(Id='Test',Version='1.3.0')" />
+  <category term="NuGet.Server.DataServices.Package" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+  <content type="application/zip" src="http://nugetrepo/api/v2/package/Test/1.3.0" />
+  <m:properties xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices">
+    <d:Version>1.3.0</d:Version>
+    <d:IsPrerelease m:type="Edm.Boolean">false</d:IsPrerelease>
+    <d:Title m:null="true"></d:Title>
+    <d:Owners>marek.fisera</d:Owners>
+    <d:IconUrl m:null="true"></d:IconUrl>
+    <d:LicenseUrl m:null="true"></d:LicenseUrl>
+    <d:ProjectUrl m:null="true"></d:ProjectUrl>
+    <d:DownloadCount m:type="Edm.Int32">0</d:DownloadCount>
+    <d:RequireLicenseAcceptance m:type="Edm.Boolean">false</d:RequireLicenseAcceptance>
+    <d:DevelopmentDependency m:type="Edm.Boolean">false</d:DevelopmentDependency>
+    <d:Description>Test</d:Description>
+    <d:ReleaseNotes m:null="true"></d:ReleaseNotes>
+    <d:Published m:type="Edm.DateTime">2016-04-19T09:11:41.9765842Z</d:Published>
+    <d:Dependencies></d:Dependencies>
+    <d:PackageHash>D2GtXo9p6GOePcCETlMtCY1QjlsktIvJtWWBLlbMrZXhq0O5H41+B2FhDEaboqF7ByqP/Qne8GITmYsuW1bVtw==</d:PackageHash>
+    <d:PackageHashAlgorithm>SHA512</d:PackageHashAlgorithm>
+    <d:PackageSize m:type="Edm.Int64">4917</d:PackageSize>
+    <d:Copyright m:null="true"></d:Copyright>
+    <d:Tags m:null="true"></d:Tags>
+    <d:IsAbsoluteLatestVersion m:type="Edm.Boolean">true</d:IsAbsoluteLatestVersion>
+    <d:IsLatestVersion m:type="Edm.Boolean">true</d:IsLatestVersion>
+    <d:Listed m:type="Edm.Boolean">true</d:Listed>
+    <d:VersionDownloadCount m:type="Edm.Int32">0</d:VersionDownloadCount>
+    <d:MinClientVersion m:null="true"></d:MinClientVersion>
+    <d:Summary m:null="true"></d:Summary>
+  </m:properties>
+</entry>
